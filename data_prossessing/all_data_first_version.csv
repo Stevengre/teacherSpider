@@ -1,0 +1,184 @@
+﻿paper_id,author_id,impact_factor,key0,key1,key2,key3,key4,key5,reference_times
+1,1,2.136,structure analysis,3D reconstruction,point cloud ,,,,27
+2,2,6.729,Motion,Vision and Scene Understanding,,,,,394
+3,3,,Big data,data caching,MapReduce,scheduling,,,4
+4,4,,distributed architectures,distributed systems organizing principles,human factors,measurement,modeling,performance,732
+5,5,2.823,Visual cryptography scheme,multiple secrets,integer linear programming,access structure,secret sharing scheme,,
+6,6,2.62,hierarchical clustering,criterion function,constrained agglomerative clustering,data mining ,,,632
+7,7,0.359,Linguistics,,,,,,4
+8,8,1.877,speaker verification,Channel mismatch,cohort,speaker model synthesis,,,9
+9,9,,video predictive encoding,predictive analytics,Vision and Scene Understanding,,,,3
+10,10,3.004,QoS,Layered streaming,layered codec,peer-to-peer,adaptation,heterogeneity ,15
+11,11,,,,,,,,
+12,12,1.437,algorithms,association rules,data mining,experimentation,intra/intertransaction,multidimensional context,186
+13,13,2.783,trustworthy incentive mechanism,Buffer map cheating,P2P streaming,,,,8
+14,14,,Hardware,Scheduling algorithm,Delay,Quality of service,Web and internet services,Processor scheduling,1
+15,15,,,,,,,,
+16,16,,,,,,,,
+17,17,3.308,Bayesian inference,posterior regularization,Bayesian nonparametrics,large-margin learning,classification,multi-task learning,77
+18,18,,,,,,,,
+19,19,1.581,Equalizers,Receivers,Impedance,System-on-a-chip,Topology,Resistance,6
+20,20,2.823,Algorithm design and analysis,Computational modeling,Performance analysis,Scheduling algorithm,Video coding,Multicore processing,17
+21,21,2.136,Animation, Image decomposition,Image segmentation,Coherence,Layout,Image reconstruction,79
+22,22,4.063,Vectors,Transforms,Estimation,Motion estimation,Image sequences,Mathematical model,7
+23,23,,grid,peer-to-peer,replica location,load balance,Electrical Engineering,,1
+24,24,1.942,Lithography, Page description languages,Ultraviolet sources,Resists,Integer linear programming,Circuits,63
+25,25,2.374, Social network services,Sociology,Social factors,Large-scale systems,Algorithm design and analysis ,,17
+26,26,2.528,Linguistics,,,,,,141
+27,27,,Support Vector Machine,Interaction Curation,Kernel Support Vector Machine,Template Feature,Irrelevant Article,,37
+28,28,,Network on chip,CMP,message reduction,,,,1
+29,29,4.951,Access protocols,Downlink, Transport protocols,Scheduling,Resource management,Wireless networks,14
+30,30,2.766,Grid,NSFC Grid,ChinaGrid,,,,36
+31,31,1.262,P2P system,Tit-for-Tat strategy,Free-riding,BitTorrent network,,,6
+32,32,4.529,ARTIFICIAL INTELLIGENCE,,,,,,3
+33,33,,,,,,,,
+34,34,,,,,,,,
+35,35,0.956,memory gap,IPULOC ,instruction processing unit,,,,2
+36,36,,Motion Estimation,Edge Point,Hide State,Stereo Image,Stereo Image Pair ,,8
+37,37,1.856,guidance,control,dynamics,AEROSPACE,INSTRUMENTS ,INSTRUMENTATION,22
+38,38,,INTEGRATION,,,,,,5
+39,39,,,,,,,,
+40,40,3.52,Modeling,Transforms,Web and internet services ,System-on-a-chip,XML,Computational modeling,22
+41,41,1.954,SOFTWARE ENGINEERING,Simulation Modelling,,,,,11
+42,42,,Parallel Transient Stability Simulation,Grid ,,,,,5
+43,43,3.376,Routing,Optical fiber communication, Optical transmitters,IP networks,Power demand,,
+44,44,,Runtime,Algorithm design and analysis,Educational institutions,Performance analysis,Data structures,Asynchronous communication,11
+45,45,3.509,Performance analysis,Traffic control,Information filters,Information filtering,Routing,Bandwidth,28
+46,46,0.451,electrical,electronic,telecommunications,Iterative algorithms,Algorithm design and analysis,,4
+47,47,,,,,,,,
+48,48,1.628,evolvable architecture,design constraints,evolvability evaluation model ,economic adaptability,general address platform ,,6
+49,49,0.424,Two-dimensional dyadic wavelet transform,two-dimensional stationary dyadic wavelet transform,decimated dyadic discrete wavelet transform,face recognition,,,5
+50,50,,,,,,,,
+51,51,1.437,deep learning,lexical semantics,long short-term memory,neural networks,recursive neural network,representation learning,5
+52,52,,algorithms,click relevance,click-through data,experimentation,human factors,implicit feedback,5
+53,53,1.466,Big data,Critical path,Deadline guarantee,Fault tolerance,Online applications,Stream computing,1
+54,54,,algorithms,design,fast poisson solver,functional verification,gpu p/g network,partitioning and floorplanning,52
+55,55,2.3,Data cleansing,Web search engine,Web page,Information retrieval,Information system,,15
+56,56,3.834,Artificial intelligence,Quantum mechanics,Discrimination,Bayesian network,Quantum algorithm,,36
+57,57,7.168,Kalman filters,Packet loss,Delays,Delay effects,Sensors,Predictive control,35
+58,58,3.599,Computational modeling,Algorithm design and analysis,Performance analysis,Computer architecture,Parallel processing, Video coding,17
+59,59,0.787,Physical design,Low-power electronics,CMOS,Satisfiability,Mathematical optimization,,10
+60,60,3.599,Computational modeling,Algorithm design and analysis,Performance analysis,Computer architecture,Parallel processing, Video coding,17
+61,61,4.269,Keyword search,Relational databases,Steiner Tree,Compact Steiner tree ,Approximate algorithms ,Structure-aware index ,34
+62,1,2.671,Vision,,,,,,7
+63,2,8.329,Face detection,Computer vision,Video sequences, Learning systems,Classification tree analysis,Detectors,412
+64,3,0.956,cloud computing,operating system,architecture evolution,virtualization,cloud ecosystem,,1
+65,4,,Bandwidth,Servers,Kernel,Random access memory,Virtual machining,Memory management,24
+66,5,0.698,THEORY ,METHODS,,,,,4
+67,6,1.848,partitional clustering ,criterion function,data mining,information retrieval ,,,571
+68,7,2.528, ARTIFICIAL INTELLIGENCE,INTERDISCIPLINARY APPLICATIONS,LINGUISTICS,,,,49
+69,8,,speech emotion recognition,decision fusion,,,,,2
+70,9,,Video transcoding,Machine learning,,,,,1
+71,10,,Web pages, Data mining, Intelligent agent,Machine learning algorithms,Mobile computing,Personal communication networks,17
+72,11,,knowledge management,business knowledge optimization,classifier training,workflow pattern,workflow generation,,6
+73,12,1.694, ARTIFICIAL INTELLIGENCE, INFORMATION SYSTEMS,DATA MINING,Association rules,,,62
+74,13,,Algorithm design and analysis,Web pages,IP networks, Communications Society,Web and internet services,,30
+75,14,0.956,router,switch fabric,direct network,routing algorithm,,,8
+76,15,,,,,,,,
+77,16,,,,,,,,
+78,17,5,supervised topic models,max-margin learning,Gibbs classifiers,regularized Bayesian inference,support vector machine,,54
+79,18,,Computer architecture,Operating systems,Hardware,Distributed computing,Computer networks,Pervasive computing,75
+80,19,1.942,Large-scale systems,Time domain analysis, Circuits,,,,10
+81,20,3.509,Target tracking,Proposals,Context modeling,State-space methods, Particle tracking,Degradation,16
+82,21,1.628,non-photorealistic rendering ,Chinese painting,stroke based rendering,video rendering,optical flow ,,26
+83,22,2.743,Imaging, Acoustics,Frequency-domain analysis,Ultrasonic imaging, Fourier transforms,Image reconstruction,15
+84,23,,Social network services, Scalability, IP networks,Availability,,,5
+85,24,1.942,Timing,Manufacturing processes,Constraint optimization,Circuit optimization,Circuit testing,"	Electronic equipment manufacture",4
+86,25,4.529,Temporal expert finding,Conferences influence,Generalized time topic modeling,Unsupervised learnin,,,32
+87,26,1.25,web information  monitoring,response time ,Resource allocation,Poisson process,Web page ,,2
+88,27,2.448,Latent Dirichlet Allocation,Related Word,Topic Factor,Latent Topic,Variational Inference,,11
+89,28,,Optimization,Hardware,Energy consumption,Computer architecture,Graphics processing units,Field programmable gate arrays,1
+90,29,8.972,Broadcasting,Wireless sensor networks,Phase locked loops,Algorithm design and analysis,Guidelines,Performance analysis,74
+91,30,0.411,Peer-to-Peer,bulk file dissemination,perpendicular downloading,incentive,game theory,,
+92,31,0.348,mobile sensor network,,,,,,4
+93,32,4.529,ARTIFICIAL INTELLIGENCE,,,,,,2
+94,33,,,,,,,,
+95,34,,Scalability,Operating systems, Large-scale systems,Hardware,Kernel,System software,12
+96,35,,Resource management,Grid computing,Web services,Indexing, Application software,Power systems,2
+97,36,8.329,Hidden Markov models, Motion estimation,Image motion analysis ,Feature extraction,Tracking,"	Motion analysis",9
+98,37,,,,,,,,
+99,38,0.274,voltage-island,voltage assignment,convex network flow,level shifter assignment,white space redistribution,,5
+100,39,1.908,Web services,data as a service,mashup,context-awareness,ontology,,51
+101,40,0.956,semantic web services ,semantic distance,services ranking,,,,10
+102,41,2.444,SOFTWARE ENGINEERING,THEORY,METHODS,,,,6
+103,42,,Power system dynamics,Parallel algorithms,Computational modeling,Power system security,Parallel processing, Algorithm design and analysis,13
+104,43,3.376,Bandwidth, Resource management,Servers,Network topology,Virtual machining,,10
+105,44,,cloud computing,design management,measurement,modeling,performance,software development methods,12
+106,45,3.376,Performance analysis,Energy consumption,Random access memory,Associative memory,Load management,Application specific integrated circuits,92
+107,46,1.367,3d integration,3d packing,architectures,integrated circuits ,,,14
+108,47,,Ubiquitous computing,Pervasive computing,Computer networks,Distributed computing,Hardware,Operating systems,75
+109,48,7.23,Routing protocols,Software development, Operating systems,Standards development,Packet switching,Linux,11
+110,49,0.463,Spline dyadic wavelet,dyadic lifting schemes,vanishing moment,,,,4
+111,50,,cluster router,shortest path, shortest path tree,parallel algorithm,complexity,,6
+112,51,,artificial intelligence,,,,,,16
+113,52,,Web Search,Data Mining,,,,,14
+114,53,,Big data,cloud storage,data deduplication,data routing ,file system,,13
+115,54,,computations on matrices,hardware validation,iterative method,linear algebra algorithms,physical design (eda),,6
+116,55,,information retrieval,information storage systems,spam detection,user behavior analysis,web search engine,,59
+117,56,,Artificial  Intelligence ,,,,,,3
+118,57,5.451,AUTOMATION,CONTROL SYSTEMS,ENGINEERING,ELECTRICAL,ELECTRONIC,,14
+119,58,3.509,Target tracking,Context modeling,State-space methods,Degradation,Particle tracking,Particle filters,16
+120,59,0.274,behavioral synthesis,reallocation,rebinding,peak temperature,,,
+121,60,4.3,Arithmetic,Cryptography, Image coding,Security, Data compression,Video coding,151
+122,61,3.438,XML,Keyword search,Semantics,Message service,Internet,Search methods ,3
+123,1,2.444,Exact geodesic,triangle meshes,2-manifold,edge-based data structure,,,33
+124,2,4.828,Target tracking,Bayesian methods,Detectors,Image color analysis,Shape,,91
+125,3,,Markov processes,Data transfer,Computational modeling,Benchmark testing,Hardware,,8
+126,4,,Network Distance ,Domain Tree ,Distribute Storage System ,Cluster Leaf ,Transit Node ,,
+127,5,3.599,Visualization,Image reconstruction,Stacking,Cryptography,Decoding,Vectors ,42
+128,6,,Disk Failure,SMART data,Hidden Markov Model ,Hidden Semi-Markov Model,data mining,,26
+129,7,0.772,Entity and relation recognition,knowledge representation,information extraction,,,,4
+130,8,,Support vector machines, Support vector machine classification,Emotion recognition,Hidden Markov models,Spatial databases,Speaker recognition,115
+131,9,,,,,,,,
+132,10,1.405,small screen devices,interest blocks,implicit evidence ,machine learning ,,,10
+133,11,,,,,,,,
+134,12,2.312,algorithms,conceptual modeling,data model extensions,database design and models,document preparation,semantic networks,126
+135,13,1.521,IP networks,Educational institutions,Tunneling,Large-scale systems,Routing,Web and internet services,33
+136,14,3.376,algorithms,buffered crossbar,fiber distributed data interface (fddi),interconnect,model development and analysis,scheduling,60
+137,15,2.677,wireless sensor network,energy,scheduling,collaboration,distribution,,5
+138,16,2.472,Soft Computing,,,,,,1
+139,17,5,Machine Learning,,,,,,16
+140,18,,enterprise networks,network management,system management,virtual disks,,,14
+141,19,0.274,high-frequency effect,inductance modeling,parasitic extraction,partial reluctance,power/ground grid,,4
+142,20,4.181,Peer to peer computing,Optimal scheduling,Streaming media,Internet,Scheduling algorithm,Video coding,98
+143,21,2.444,Computer Aided Design,Curve fitting,De Boor's algorithm,B-spline,,,50
+144,22,,real-time ultrasonic imaging,,,,,,2
+145,23,1.25,grid environment,resource discovery mechanism,,,,,3
+146,24,1.092,pattern matching,very large scale integration technology,,,,,17
+147,25,3.52,Modeling,Computational modeling,System-on-a-chip,Web and internet services ,Data models,XML,20
+148,26,,Distributed computing,Grid computing,Data models,Application software,Web server,File servers,4
+149,27,2.448,Bioinformatics,Algorithm,Artificial intelligence,DNA microarray,Natural language processing,,11
+150,28,,software as services,distributed storage ,application virtualization ,,,,1
+151,29,2.516,computer network, Active queue management,,,,,27
+152,30,1.133,Load balancing,,,,,,29
+153,31,,Peer to peer computing,Financial management,Application software,Mechanical factors,Resource management,Delay,2
+154,32,4.529,ARTIFICIAL INTELLIGENCE,,,,,,7
+155,33,,Graph ,grid,,,,,82
+156,34,,,,,,,,
+157,35,,Virtual machining,Computer languages,Service oriented architecture,Web services,Computer architecture,,13
+158,36,,Dynamic Bayesian Network,Dynamic Context,Microphone Array,Lower Level Event ,Group Scenario ,,16
+159,37,,,,,,,,
+160,38,1,HARDWARE ARCHITECTURE,ELECTRICAL,ELECTRONIC,,,,2
+161,39,1.954,SOFTWARE ENGINEERING,Simulation Modelling,,,,,26
+162,40,,Large-scale systems,Dynamic programming,Delay,Information science,Software systems,,2
+163,41,1.954,SOFTWARE ENGINEERING,Simulation Modelling,,,,,6
+164,42,5.68,Power system transients,Computational modeling,Parallel processing,Real time systems,Analytical models ,,72
+165,43,3.376,communication hardware,data center network ,distributed architectures,networks,,,6
+166,44,,cloud computing,distributed architectures,job scheduling,management,resource provisioning,,34
+167,45,8.085,Computer network security,string matching,finite automata,IP networks,Memory architecture ,,89
+168,46,0.956,floorplanning,corner block list,L/T-shaped blocks,,,,3
+169,47,,Pervasive Computing ,Pilot System,Request Size,Dynamic Host Configuration Protocol ,Smart Classroom ,,96
+170,48,4.181,Peer-to-peer computing,Mathematical model,Estimation,Analytical models,,,16
+171,49,,Design methodology,Pattern analysis,Wavelet analysis,Nonlinear equations,,,
+172,50,,Computer architecture,Bandwidth,Internet,Scheduling algorithm,,,10
+173,51,,linguistic,,,,,,4
+174,52,,,,,,,,
+175,53,4.181,Data migration, Metadata,Data processing,Computer crashes ,,,
+176,54,1.942,power grids,Circuit simulation and analysis,interconnect,power delivery ,,,23
+177,55,,Web Search,Data Mining,,,,,14
+178,56,4.797,Artificial intelligence,Information science,Systems modeling,,,,43
+179,57,2.456,network-based measurement,Sensors,Delays,,,,8
+180,58,8.085,Bandwidth,Multicast protocols,Routing protocols,Peer to peer computing,,,294
+181,59,1,hardware validation,mathematical optimization,quadratic uniformity model,routing and network design problems,,,27
+182,60,2.528,data compression,Arithmetic codes,cryptography ,,,,122
+183,61,,Fuzzy systems,Search engines, Information systems,Web search,Keyword search,,11
